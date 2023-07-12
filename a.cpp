@@ -1,5 +1,5 @@
 #include<iostream.h>
 int main(){
-    cout<<"\n Hello";
+    cout<<"\n"<<6+9;
     return 0;
 }
